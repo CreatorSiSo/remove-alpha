@@ -8,6 +8,6 @@ Removes all Alpha bytes from a binary with Red, Green, Blue and Alpha color chan
 | 50 | 8e | a5 | ff | 53 | 90 | a5 | ff |...|
 
 ## After
-| r  | g  | b  | r  | g  | b  |...|
-|----|----|----|----|----|----|---|
-| 50 | 8e | a5 | 53 | 90 | a5 |...|
+| r  | g  | b  | _  | r  | g  | b  | _  |...|
+|----|----|----|----|----|----|----|----|---|
+| 50 | 8e | a5 | _  | 53 | 90 | a5 | _  |...|
